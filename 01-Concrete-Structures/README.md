@@ -3,10 +3,11 @@
 
 **Structural Analysis and Design of a 12-Level Reinforced Concrete Residential Building**
 
-<!--
-Uncomment the following image after uploading it:
 ![3D ETABS Structural Model](images/etabs-3d-model.png)
--->
+
+*Figure 1. Three-dimensional ETABS structural model of the reinforced concrete residential building.*
+
+---
 
 | Project Information | Details |
 |---|---|
@@ -21,7 +22,7 @@ Uncomment the following image after uploading it:
 
 ### Quick Access
 
-- [Academic Project Brief](project-brief/)
+- [Academic Project Brief (PDF)](project-brief/Concrete-Project-Brief.pdf)
 - [Original Technical Report](report/)
 - [ETABS and SAFE Models](software-files/)
 - [Project Images and Visualizations](images/)
@@ -76,7 +77,11 @@ The project integrates manual engineering calculations, computational structural
 - Iranian National Building Code, Part 9 – Design and Construction of Reinforced Concrete Buildings.
 - Iranian Standard No. 2800 – Seismic Design of Buildings.
 
-[View Original Academic Project Brief](project-brief/)
+<!--
+![Architectural Floor Plan](images/architectural-plan.png)
+-->
+
+[View Academic Project Brief (PDF)](project-brief/Concrete-Project-Brief.pdf)
 
 ---
 
@@ -151,16 +156,12 @@ A three-dimensional computational model was developed in ETABS to evaluate the s
 Manual engineering calculations were integrated with computational analysis to evaluate structural behavior and support design decisions.
 
 <!--
-Planned figures:
-
-![ETABS 3D Structural Model](images/etabs-3d-model.png)
-
 ![Structural Floor Plan](images/structural-floor-plan.png)
 
 ![Storey Drift Analysis](images/story-drift.png)
 -->
 
-[Access Structural Software Files](software-files/)
+[Access ETABS and SAFE Software Files](software-files/)
 
 ---
 
@@ -202,8 +203,6 @@ The design of reinforced concrete members combined analytical engineering calcul
 - Fire-resistance considerations.
 
 <!--
-Planned figures:
-
 ![Waffle Slab Section](images/waffle-slab-section.png)
 
 ![Slab Finite Element Mesh](images/slab-meshing.png)
@@ -243,8 +242,6 @@ The estimated total area required for isolated footings was approximately 300.51
 - Interpretation of foundation analysis results.
 
 <!--
-Planned figures:
-
 ![SAFE Mat Foundation Model](images/safe-foundation-model.png)
 
 ![Soil Pressure Distribution](images/soil-pressure.png)
@@ -283,8 +280,6 @@ Preliminary bearing area calculations supported the selection of a mat foundatio
 The numerical values presented here are reported academic results and have not been independently revalidated through a new software analysis.
 
 <!--
-Planned figure:
-
 ![Modal Analysis Results](images/modal-analysis.png)
 -->
 
@@ -358,11 +353,13 @@ The retained project materials are organized into the following directories:
 
 | Resource | Description | Access |
 |---|---|---|
-| Academic Project Brief | Original academic requirements and design objectives | [View Project Brief](project-brief/) |
+| Academic Project Brief | Original academic requirements and design objectives | [View PDF](project-brief/Concrete-Project-Brief.pdf) |
+| Project Brief Directory | Academic project requirements and supporting documents | [Open Directory](project-brief/) |
 | Original Technical Report | Comprehensive 156-page engineering report in Persian | [View Report](report/) |
 | ETABS Structural Model | Original numerical model of the reinforced concrete building | [View Software Files](software-files/) |
 | SAFE Foundation Model | Numerical model of the mat foundation | [View Software Files](software-files/) |
-| Project Visualizations | Selected engineering drawings, model views, and analysis outputs | [View Images](images/) |
+| 3D ETABS Model Image | Three-dimensional structural model visualization | [View Image](images/etabs-3d-model.png) |
+| Project Visualizations | Engineering drawings, model views, and analysis outputs | [View Images](images/) |
 
 ### Repository Structure
 
@@ -370,9 +367,17 @@ The retained project materials are organized into the following directories:
 01-Concrete-Structures/
 │
 ├── README.md
+│
 ├── images/
+│   ├── README.md
+│   └── etabs-3d-model.png
+│
 ├── project-brief/
+│   ├── README.md
+│   └── Concrete-Project-Brief.pdf
+│
 ├── report/
+│
 └── software-files/
 ```
 
