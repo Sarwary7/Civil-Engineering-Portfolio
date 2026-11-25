@@ -9,23 +9,25 @@
 
 ---
 
-| Project Information | Details |
+## Project Information
+
+| Parameter | Details |
 |---|---|
 | Project Type | Team Academic Project (3 Students) |
 | Course | Reinforced Concrete Structures |
 | Institution | Amirkabir University of Technology (AUT) – Tehran Polytechnic |
-| Academic Year | 2024–2025 |
 | Location | Tehran, Iran |
-| Software | ETABS, SAFE |
+| Building Occupancy | Residential |
+| Software | ETABS, SAFE, AutoCAD |
 | Retained Model Versions | ETABS 22.7.0, SAFE 22.7.0 |
 | Design Codes | Iranian National Building Code Parts 6 and 9; Iranian Standard No. 2800 |
 
-### Quick Access
+## Quick Access
 
 - [Academic Project Brief (PDF)](project-brief/Concrete-Project-Brief.pdf)
-- [Original Technical Report](report/)
-- [ETABS and SAFE Models](software-files/)
-- [Project Images and Visualizations](images/)
+- [Technical Reports and Engineering Calculations](report/)
+- [ETABS, SAFE, and AutoCAD Files](software-files/)
+- [Structural Model Images](images/)
 
 ---
 
@@ -37,7 +39,7 @@ The building consists of one basement parking level, one ground-floor parking le
 
 The selected lateral load-resisting system consists of intermediate moment-resisting frames combined with intermediate reinforced concrete shear walls. Alternative structural configurations were evaluated with respect to lateral stiffness and inter-storey drift control.
 
-The project integrates manual engineering calculations, computational structural modeling, seismic analysis, reinforced concrete design, foundation analysis, and structural material quantity estimation.
+The project integrates manual engineering calculations, computational structural modeling, seismic analysis, reinforced concrete member design, foundation design, and structural material quantity estimation.
 
 ---
 
@@ -47,7 +49,6 @@ The project integrates manual engineering calculations, computational structural
 
 | Parameter | Specification |
 |---|---|
-| Building Occupancy | Residential |
 | Number of Levels | 12 |
 | Basement Parking Levels | 1 |
 | Ground-Floor Parking Levels | 1 |
@@ -77,49 +78,36 @@ The project integrates manual engineering calculations, computational structural
 - Iranian National Building Code, Part 9 – Design and Construction of Reinforced Concrete Buildings.
 - Iranian Standard No. 2800 – Seismic Design of Buildings.
 
-[View Academic Project Brief (PDF)](project-brief/Concrete-Project-Brief.pdf)
+[View Academic Project Brief](project-brief/)
 
 ---
 
 ## 3. Engineering Methodology
 
-The project was developed through an integrated structural engineering workflow combining analytical calculations, numerical modeling, and code-based design.
+The project followed an integrated engineering workflow combining manual calculations, numerical modeling, and code-based structural design.
 
-### Structural System Selection and Preliminary Design
+### Engineering Workflow
 
-- Review of architectural plans and project requirements.
-- Evaluation of alternative structural systems.
-- Preliminary sizing of beams and columns.
-- Selection and arrangement of shear walls.
-- Consideration of lateral stiffness and storey drift.
-- Evaluation of fire-resistance requirements.
-- Selection of a two-way waffle slab floor system.
+1. Architectural review and structural system selection.
+2. Preliminary sizing of structural members.
+3. Manual gravity and seismic load calculations.
+4. Three-dimensional structural modeling in ETABS.
+5. Structural analysis and seismic performance assessments.
+6. Reinforced concrete member and waffle slab design.
+7. Foundation analysis and design in SAFE.
+8. Durability and serviceability assessments.
+9. Structural material quantity estimation.
+10. Technical documentation and interpretation of results.
 
 ### Structural Loading
 
 - Structural and non-structural dead loads.
 - Residential, parking, and roof live loads.
 - Snow loads and snow accumulation.
-- Wind loads.
-- Elevator loads.
+- Wind and elevator loads.
 - Seismic load calculations.
 - Effective seismic weight determination.
-- Development of structural load combinations.
-
-### Engineering Workflow
-
-1. Architectural review and structural system selection.
-2. Preliminary member sizing.
-3. Manual load calculations.
-4. Three-dimensional structural modeling.
-5. Structural and seismic analysis.
-6. Reinforced concrete member and slab design.
-7. Foundation analysis and design.
-8. Durability and serviceability assessments.
-9. Structural material quantity estimation.
-10. Technical documentation and interpretation of results.
-
-[View Detailed Engineering Report](report/)
+- Structural load combinations.
 
 ---
 
@@ -133,9 +121,7 @@ A three-dimensional computational model was developed in ETABS to evaluate the s
 - Assignment of material and section properties.
 - Modeling of beams, columns, slabs, and shear walls.
 - Assignment of cracked-section stiffness modifiers.
-- Shear wall meshing.
-- Definition of diaphragm behavior.
-- Assignment of gravity and seismic loads.
+- Shear wall meshing and diaphragm definition.
 - Definition of mass sources and load combinations.
 - Extraction of structural response and internal member forces.
 
@@ -149,72 +135,63 @@ A three-dimensional computational model was developed in ETABS to evaluate the s
 
 ![Typical Structural Floor Plan](images/structural-floor-plan.png)
 
-*Figure 3. Structural floor plan showing beam section assignments, column locations, shear wall positions, slab openings, and structural grid dimensions.*
+*Figure 3. Structural floor plan showing member section assignments, column locations, shear wall positions, slab openings, and structural grid dimensions.*
 
 ### Structural and Seismic Assessments
 
 - Modal analysis and natural period evaluation.
 - Modal mass participation assessment.
-- Structural displacement evaluation.
-- Inter-storey drift assessment.
+- Structural displacement and inter-storey drift evaluation.
 - Torsional irregularity assessment.
 - Overturning stability assessment.
 - Interpretation of structural internal forces.
 
-Manual engineering calculations were integrated with computational analysis to evaluate structural behavior and support design decisions.
-
-[Access ETABS and SAFE Software Files](software-files/)
+[Access Structural Model Files](software-files/)
 
 ---
 
-## 5. Reinforced Concrete Member and Waffle Slab Design
+## 5. Reinforced Concrete Member and Slab Design
 
 The design of reinforced concrete members combined analytical engineering calculations with internal forces and design outputs obtained from ETABS.
 
 ### Beam Design
 
-- Flexural strength calculations.
-- Shear and torsional design.
-- Longitudinal reinforcement determination.
+- Flexural, shear, and torsional design.
+- Longitudinal reinforcement calculations.
 - Transverse reinforcement and stirrup calculations.
 - Reinforcement arrangement and member classification.
 
 ### Column Design
 
 - Axial load and bending moment interaction.
-- Longitudinal reinforcement calculations.
+- Longitudinal and transverse reinforcement calculations.
 - Shear resistance assessment.
-- Transverse reinforcement calculations.
 - Column section and reinforcement classification.
 
 ### Two-Way Waffle Slab Design
 
 - Definition of slab geometry and section properties.
-- Finite element meshing.
-- Definition of design strips.
+- Finite element meshing and design strip definition.
 - Evaluation of bending moments and internal forces.
 - Determination of reinforcement requirements.
 
 ### Durability and Serviceability
 
-- Concrete cover requirements.
-- Reinforcement detailing considerations.
-- Crack control requirements.
-- Structural deformation considerations.
-- Durability and serviceability provisions.
-- Fire-resistance considerations.
+- Concrete cover and reinforcement detailing.
+- Crack control and structural deformation considerations.
+- Durability and fire-resistance requirements.
 
-[View Detailed Member and Slab Design Calculations](report/)
+[View Detailed Engineering Calculations](report/)
 
 ---
 
 ## 6. Mat Foundation Analysis and Design in SAFE
 
-The foundation system was selected based on preliminary bearing area calculations using column reactions obtained from the ETABS structural model.
+Preliminary foundation bearing area calculations were performed using column reactions obtained from the ETABS structural model.
 
-The estimated total area required for isolated footings was approximately 300.51 m², representing about 81% of the building footprint. Based on this preliminary assessment, a mat foundation was selected for the academic design.
+The estimated area required for isolated footings represented approximately 81% of the building footprint. Based on this preliminary assessment, a mat foundation was selected for the academic design.
 
-### Foundation Selection
+### Foundation Specifications
 
 | Parameter | Reported Value |
 |---|---:|
@@ -228,28 +205,25 @@ The estimated total area required for isolated footings was approximately 300.51
 
 ![SAFE Mat Foundation Model](images/safe-foundation-model.png)
 
-*Figure 4. Three-dimensional SAFE model illustrating the mat foundation geometry, foundation thickness, and reinforced concrete shear wall locations.*
+*Figure 4. Three-dimensional SAFE model illustrating the mat foundation geometry and reinforced concrete shear wall locations.*
 
-### SAFE Modeling and Design
+### Foundation Modeling and Design
 
 - Application of structural reactions.
-- Definition of foundation geometry.
-- Definition of soil subgrade properties.
-- Finite element meshing.
-- Definition of foundation design strips.
+- Definition of foundation geometry and soil subgrade properties.
+- Finite element meshing and design strip definition.
 - Soil bearing pressure assessment.
-- Punching shear assessment.
-- One-way shear assessment.
+- Punching shear and one-way shear assessments.
 - Flexural design and reinforcement calculations.
 - Interpretation of foundation analysis results.
 
-[Access Foundation Software Files](software-files/)
+[Access SAFE Foundation Model](software-files/safe.FDB)
 
 ---
 
-## 7. Key Engineering Results
+## 7. Selected Engineering Results
 
-The following values summarize selected results reported in the original academic project documentation.
+The following numerical values are reported in the original academic project documentation.
 
 ### Modal Analysis Results
 
@@ -265,19 +239,13 @@ The reported cumulative modal mass participation exceeded 90% in both principal 
 
 The original technical report also documents seismic loading, inter-storey drift, torsional irregularity, and overturning stability assessments.
 
-### Engineering Interpretation
-
-Modal analysis was used to evaluate the dynamic characteristics of the building and the contribution of vibration modes to its seismic response.
-
-Preliminary bearing area calculations supported the selection of a mat foundation, while structural analysis outputs informed reinforced concrete member design and reinforcement requirements.
-
-### Documentation and Model Verification Note
+### Model Verification and Documentation Note
 
 The numerical values presented above are taken from the original academic report. A subsequent review of the retained ETABS model revealed differences in modal periods and mass participation results.
 
 These differences have not yet been reconciled. Accordingly, the reported numerical results and retained computational models should not be interpreted as a fully reconciled or independently validated dataset.
 
-[View Original Analysis Results and Calculations](report/)
+[View Original Technical Report](report/)
 
 ---
 
@@ -285,7 +253,7 @@ These differences have not yet been reconciled. Accordingly, the reported numeri
 
 Structural material quantities were estimated following the design of the main reinforced concrete components.
 
-### Reported Aggregate Material Quantities
+### Reported Material Quantities
 
 | Material | Reported Quantity |
 |---|---:|
@@ -301,25 +269,23 @@ Structural material quantities were estimated following the design of the main r
 | Reinforcement per Floor Area | 53.76 kg/m² |
 | Reinforcement per Concrete Volume | 158.20 kg/m³ |
 
-The material consumption indicators were calculated using the reported aggregate material quantities and total floor area.
+These indicators were calculated using the reported aggregate material quantities and total floor area.
 
-These estimates demonstrate the relationship between structural design decisions and material requirements.
+The quantity estimates illustrate the relationship between structural design decisions and material requirements.
 
-Detailed component-level quantity calculations are available in the original technical report.
-
-[View Material Quantity Calculations](report/)
+[View Detailed Quantity Calculations](report/)
 
 ---
 
-## 9. Project Contribution and Academic Learning Outcomes
+## 9. Personal Contribution and Academic Learning Outcomes
 
 ### Collaborative Contribution
 
 This project was completed collaboratively by a team of three civil engineering students at Amirkabir University of Technology.
 
-All team members participated jointly in the major stages of the project, including structural system selection, load calculations, computational modeling, structural analysis, reinforced concrete member design, foundation design, material quantity estimation, and technical reporting.
+All team members participated jointly in the major stages of the project, including structural system selection, load calculations, computational modeling, structural analysis, member design, foundation design, material quantity estimation, and technical reporting.
 
-My contribution extended across all major project stages through collaborative engineering calculations, computational modeling, design discussions, interpretation of numerical results, and technical documentation.
+My contribution extended across these stages through collaborative engineering calculations, computational modeling, design discussions, interpretation of numerical results, and technical documentation.
 
 The project results and original technical report represent the collective work of the three team members.
 
@@ -327,9 +293,8 @@ The project results and original technical report represent the collective work 
 
 Through this project, I developed experience in:
 
-- Structural behavior of multi-storey reinforced concrete buildings.
-- Evaluation and selection of structural systems.
-- Application of structural and seismic design regulations.
+- Multi-storey reinforced concrete structural systems.
+- Structural and seismic design regulations.
 - Integration of manual calculations and computational analysis.
 - Interpretation of modal and seismic response results.
 - Reinforced concrete member and foundation design.
@@ -337,53 +302,34 @@ Through this project, I developed experience in:
 - Structural material quantity estimation.
 - Technical reporting and collaborative engineering problem-solving.
 
-The project strengthened my academic foundation in structural engineering and computational analysis, providing relevant preparation for graduate-level studies in Civil Engineering.
-
 ---
 
 ## 10. Project Documentation and Resources
 
-The retained project materials are organized into the following directories:
-
 | Resource | Description | Access |
 |---|---|---|
-| Academic Project Brief | Academic requirements and design objectives | [View PDF](project-brief/Concrete-Project-Brief.pdf) |
-| Project Brief Directory | Academic requirements and supporting documents | [Open Directory](project-brief/) |
-| Original Technical Report | Comprehensive 156-page engineering report in Persian | [View Report](report/) |
-| ETABS Structural Model | Retained numerical model of the reinforced concrete building | [View Software Files](software-files/) |
-| SAFE Foundation Model | Numerical model of the mat foundation | [View Software Files](software-files/) |
-| Overall Structural Model | Three-dimensional ETABS building visualization | [View Image](images/etabs-3d-model.png) |
-| Beam and Column Model | Three-dimensional reinforced concrete framing system | [View Image](images/etabs-beam-column-model.png) |
-| Structural Floor Plan | Structural layout and member section assignments | [View Image](images/structural-floor-plan.png) |
-| Mat Foundation Model | Three-dimensional foundation visualization in SAFE | [View Image](images/safe-foundation-model.png) |
-| Project Visualizations | Selected structural and foundation model images | [Open Directory](images/) |
+| Academic Project Brief | English summary of project requirements and design criteria | [View PDF](project-brief/Concrete-Project-Brief.pdf) |
+| Original Academic Assignment | Original project requirements in Persian | [Open Directory](project-brief/) |
+| Technical Report Summary | Concise overview of project methodology and results | [View Reports](report/) |
+| Full Technical Report | Comprehensive 156-page engineering report in Persian | [View Reports](report/) |
+| ETABS Structural Model | Retained numerical building model | [View File](software-files/project%20new%20model.EDB) |
+| SAFE Foundation Model | Numerical model of the mat foundation | [View File](software-files/safe.FDB) |
+| AutoCAD Drawings | Project CAD drawings | [View File](software-files/concrate%20project.dwg) |
+| Additional CAD Drawings | Supporting drawing file | [View File](software-files/44.dwg) |
+| Structural Model Images | Selected ETABS and SAFE visualizations | [View Gallery](images/) |
 
 ### Repository Structure
 
 ```text
 01-Concrete-Structures/
-│
 ├── README.md
-│
 ├── images/
-│   ├── README.md
-│   ├── etabs-3d-model.png
-│   ├── etabs-beam-column-model.png
-│   ├── structural-floor-plan.png
-│   └── safe-foundation-model.png
-│
 ├── project-brief/
-│   ├── README.md
-│   └── Concrete-Project-Brief.pdf
-│
 ├── report/
-│
 └── software-files/
 ```
 
 The original academic report is written in Persian. This English README summarizes the project methodology, technical scope, and selected engineering results for international academic review.
-
-The selected ETABS and SAFE visualizations complement the technical documentation by illustrating the overall structural geometry, reinforced concrete framing system, structural floor layout, and mat foundation configuration.
 
 ---
 
