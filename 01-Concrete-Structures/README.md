@@ -77,10 +77,6 @@ The project integrates manual engineering calculations, computational structural
 - Iranian National Building Code, Part 9 – Design and Construction of Reinforced Concrete Buildings.
 - Iranian Standard No. 2800 – Seismic Design of Buildings.
 
-<!--
-![Architectural Floor Plan](images/architectural-plan.png)
--->
-
 [View Academic Project Brief (PDF)](project-brief/Concrete-Project-Brief.pdf)
 
 ---
@@ -143,6 +139,18 @@ A three-dimensional computational model was developed in ETABS to evaluate the s
 - Definition of mass sources and load combinations.
 - Extraction of structural response and internal member forces.
 
+### Three-Dimensional Beam and Column Model
+
+![ETABS Beam and Column Model](images/etabs-beam-column-model.png)
+
+*Figure 2. Three-dimensional ETABS model illustrating the reinforced concrete beam and column framing system.*
+
+### Typical Structural Floor Plan
+
+![Typical Structural Floor Plan](images/structural-floor-plan.png)
+
+*Figure 3. Structural floor plan showing beam section assignments, column locations, shear wall positions, slab openings, and structural grid dimensions.*
+
 ### Structural and Seismic Assessments
 
 - Modal analysis and natural period evaluation.
@@ -154,12 +162,6 @@ A three-dimensional computational model was developed in ETABS to evaluate the s
 - Interpretation of structural internal forces.
 
 Manual engineering calculations were integrated with computational analysis to evaluate structural behavior and support design decisions.
-
-<!--
-![Structural Floor Plan](images/structural-floor-plan.png)
-
-![Storey Drift Analysis](images/story-drift.png)
--->
 
 [Access ETABS and SAFE Software Files](software-files/)
 
@@ -202,13 +204,7 @@ The design of reinforced concrete members combined analytical engineering calcul
 - Durability and serviceability provisions.
 - Fire-resistance considerations.
 
-<!--
-![Waffle Slab Section](images/waffle-slab-section.png)
-
-![Slab Finite Element Mesh](images/slab-meshing.png)
-
-![Reinforced Concrete Member Design](images/member-design.png)
--->
+[View Detailed Member and Slab Design Calculations](report/)
 
 ---
 
@@ -228,6 +224,12 @@ The estimated total area required for isolated footings was approximately 300.51
 | Selected Foundation System | Mat Foundation |
 | Preliminary Foundation Thickness | 1,500 mm |
 
+### Three-Dimensional Foundation Model
+
+![SAFE Mat Foundation Model](images/safe-foundation-model.png)
+
+*Figure 4. Three-dimensional SAFE model illustrating the mat foundation geometry, foundation thickness, and reinforced concrete shear wall locations.*
+
 ### SAFE Modeling and Design
 
 - Application of structural reactions.
@@ -240,14 +242,6 @@ The estimated total area required for isolated footings was approximately 300.51
 - One-way shear assessment.
 - Flexural design and reinforcement calculations.
 - Interpretation of foundation analysis results.
-
-<!--
-![SAFE Mat Foundation Model](images/safe-foundation-model.png)
-
-![Soil Pressure Distribution](images/soil-pressure.png)
-
-![Punching Shear Assessment](images/punching-shear.png)
--->
 
 [Access Foundation Software Files](software-files/)
 
@@ -277,11 +271,11 @@ Modal analysis was used to evaluate the dynamic characteristics of the building 
 
 Preliminary bearing area calculations supported the selection of a mat foundation, while structural analysis outputs informed reinforced concrete member design and reinforcement requirements.
 
-The numerical values presented here are reported academic results and have not been independently revalidated through a new software analysis.
+### Documentation and Model Verification Note
 
-<!--
-![Modal Analysis Results](images/modal-analysis.png)
--->
+The numerical values presented above are taken from the original academic report. A subsequent review of the retained ETABS model revealed differences in modal periods and mass participation results.
+
+These differences have not yet been reconciled. Accordingly, the reported numerical results and retained computational models should not be interpreted as a fully reconciled or independently validated dataset.
 
 [View Original Analysis Results and Calculations](report/)
 
@@ -353,13 +347,16 @@ The retained project materials are organized into the following directories:
 
 | Resource | Description | Access |
 |---|---|---|
-| Academic Project Brief | Original academic requirements and design objectives | [View PDF](project-brief/Concrete-Project-Brief.pdf) |
-| Project Brief Directory | Academic project requirements and supporting documents | [Open Directory](project-brief/) |
+| Academic Project Brief | Academic requirements and design objectives | [View PDF](project-brief/Concrete-Project-Brief.pdf) |
+| Project Brief Directory | Academic requirements and supporting documents | [Open Directory](project-brief/) |
 | Original Technical Report | Comprehensive 156-page engineering report in Persian | [View Report](report/) |
-| ETABS Structural Model | Original numerical model of the reinforced concrete building | [View Software Files](software-files/) |
+| ETABS Structural Model | Retained numerical model of the reinforced concrete building | [View Software Files](software-files/) |
 | SAFE Foundation Model | Numerical model of the mat foundation | [View Software Files](software-files/) |
-| 3D ETABS Model Image | Three-dimensional structural model visualization | [View Image](images/etabs-3d-model.png) |
-| Project Visualizations | Engineering drawings, model views, and analysis outputs | [View Images](images/) |
+| Overall Structural Model | Three-dimensional ETABS building visualization | [View Image](images/etabs-3d-model.png) |
+| Beam and Column Model | Three-dimensional reinforced concrete framing system | [View Image](images/etabs-beam-column-model.png) |
+| Structural Floor Plan | Structural layout and member section assignments | [View Image](images/structural-floor-plan.png) |
+| Mat Foundation Model | Three-dimensional foundation visualization in SAFE | [View Image](images/safe-foundation-model.png) |
+| Project Visualizations | Selected structural and foundation model images | [Open Directory](images/) |
 
 ### Repository Structure
 
@@ -370,7 +367,10 @@ The retained project materials are organized into the following directories:
 │
 ├── images/
 │   ├── README.md
-│   └── etabs-3d-model.png
+│   ├── etabs-3d-model.png
+│   ├── etabs-beam-column-model.png
+│   ├── structural-floor-plan.png
+│   └── safe-foundation-model.png
 │
 ├── project-brief/
 │   ├── README.md
@@ -383,7 +383,7 @@ The retained project materials are organized into the following directories:
 
 The original academic report is written in Persian. This English README summarizes the project methodology, technical scope, and selected engineering results for international academic review.
 
-A concise English technical summary and additional project visualizations are planned to complement the original documentation.
+The selected ETABS and SAFE visualizations complement the technical documentation by illustrating the overall structural geometry, reinforced concrete framing system, structural floor layout, and mat foundation configuration.
 
 ---
 
