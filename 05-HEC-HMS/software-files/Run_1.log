@@ -1,0 +1,22 @@
+NOTE 15301:  Began computing simulation run "Run 1" at time 28Jul2025, 21:33:51.
+NOTE 20364:  Found no parameter problems in meteorologic model "Met 1".
+NOTE 40049:  Found no parameter problems in basin model "Basin 1".
+WARNING 40017:  Observed Discharge gage "Gage 1" at element "Junction-1" has some missing data.
+WARNING 41169:  Muskingum routing is unstable with the given parameters for reach "Reach-2".
+WARNING 40017:  Observed Discharge gage "Gage 2" at element "Junction-3" has some missing data.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-1" contains 32 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 1" for subbasin "Subbasin-2" contains 32 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 2" for subbasin "Subbasin-3" contains 32 missing or negative precipitation values that were set to zero.
+WARNING 20657:  Hyetograph gage "Gage 2" for subbasin "Subbasin-4" contains 32 missing or negative precipitation values that were set to zero.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "Subbasin-1"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-1" is 1.0000 mm.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "Subbasin-2"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-2" is 1.0000 mm.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "Subbasin-3"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-3" is 1.0000 mm.
+WARNING 41784:  Simulation time interval is greater than 0.29 * lag for subbasin "Subbasin-4"; reduce simulation time interval.
+NOTE 42413:  Unit hydrograph volume for subbasin "Subbasin-4" is 1.0000 mm.
+WARNING 41201:  1 negative inflows to element "Junction-3" set to zero.
+     Equivalent volume (cu m): -3,462.518
+NOTE 15302:  Finished computing simulation run "Run 1" at time 28Jul2025, 21:33:52.
+NOTE 15312:  The total runtime for this simulation is 00:01.
