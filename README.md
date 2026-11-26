@@ -1,140 +1,88 @@
-
 # Civil Engineering Portfolio
 
 **Homayoon Sarwary**  
 Civil Engineering Graduate  
-Amirkabir University of Technology (AUT) – Tehran Polytechnic, Tehran, Iran
+Amirkabir University of Technology (AUT) – Tehran Polytechnic, Iran
 
-📧 [Email](mailto:homayon.sarwary77@gmail.com) | 💻 [GitHub: Sarwary7](https://github.com/Sarwary7)
+[Email](mailto:homayon.sarwary77@gmail.com) | [GitHub](https://github.com/Sarwary7)
 
 ---
 
 ## About Me
 
-I am a Civil Engineering graduate from Amirkabir University of Technology (AUT), with an academic background in structural engineering, transportation engineering, hydraulics, hydrology, and construction engineering.
+I am a Civil Engineering graduate from Amirkabir University of Technology (AUT), with an academic background in structural engineering, transportation engineering, hydraulics, hydrology, and geotechnical engineering.
 
-My undergraduate academic experience encompasses structural analysis and design, infrastructure design, hydraulic and hydrological modeling, engineering calculations, and the application of engineering codes and technical standards.
+My academic projects combine engineering design, numerical modeling, analytical calculations, and the interpretation of computational results. My construction internship complements this background with practical experience in excavation monitoring, temporary retaining systems, and construction site documentation.
 
-Through individual and collaborative academic projects, I have developed skills in computational modeling, analytical problem-solving, engineering design, interpretation of numerical results, and technical documentation.
-
-My construction internship has also provided practical exposure to excavation works, temporary retaining systems, and construction site monitoring, complementing my theoretical engineering background.
-
-I am interested in pursuing graduate studies in Civil Engineering to further develop my analytical, computational, and research capabilities and deepen my understanding of engineering systems and their practical applications.
-
-This portfolio presents selected undergraduate academic projects and practical engineering experience.
+I am interested in pursuing graduate studies in Civil Engineering to further develop my analytical, computational, and research capabilities.
 
 ---
 
-## Project Overview
+## Selected Engineering Projects
 
-| # | Project | Project Type | Software | Technical Focus |
-|---|---|---|---|---|
-| 01 | [Reinforced Concrete Structures](01-Concrete-Structures/) | Team (3 members) | ETABS, SAFE | 12-storey RC building, seismic analysis, structural design, waffle slabs, mat foundation, material quantity estimation |
-| 02 | [Steel Structures](02-Steel-Structures/) | Individual | ETABS, SAFE, AutoCAD | Multi-storey steel building, moment-resisting and braced frames, manual and computational analysis, member and connection design, strip foundation analysis |
-| 03 | [Road Engineering – Herat](03-Road-Engineering-Herat/) | Individual route design within a group report | Civil 3D, AutoCAD | 12.1 km road, geometric design, earthwork, drainage, pavement design, cost estimation |
-| 04 | [Water Distribution](04-Water-Distribution/) | Team (3 members) | EPANET, Civil 3D, AutoCAD | Urban water distribution, hydraulic simulation, pressure analysis, residual chlorine modeling |
-| 05 | [HEC-HMS Watershed Model](05-HEC-HMS/) | Individual | HEC-HMS 4.12 | Rainfall-runoff modeling, manual calibration, model performance evaluation, sensitivity analysis |
-| 06 | [Building Excavation Internship](06-Excavation-Training/) | Professional Internship | — | Excavation monitoring, temporary retaining systems, excavation stability, construction documentation |
-
----
-
-## Technical Skills
-
-| Category | Software, Tools and Methods |
-|---|---|
-| Structural Analysis and Design | ETABS, SAFE |
-| Transportation and Infrastructure Design | Autodesk Civil 3D |
-| Engineering Drafting | AutoCAD |
-| Hydraulic Modeling | EPANET |
-| Hydrological Modeling | HEC-HMS |
-| Engineering Calculations and Data Analysis | Microsoft Excel, Python |
-| Structural Engineering Methods | Manual frame analysis, computational structural modeling, modal analysis, seismic assessment, steel and reinforced concrete design |
-| Hydraulic and Hydrological Methods | Hydraulic network simulation, rainfall-runoff modeling, model calibration, sensitivity analysis |
-| Infrastructure Engineering | Geometric road design, earthwork calculations, pavement design, quantity takeoff, cost estimation |
-| Technical Documentation | Engineering reports, design calculations, technical drawings, numerical models, simulation results |
+| Project | Project Type | Main Software |
+|---|---|---|
+| [01. Reinforced Concrete Structures](01-Concrete-Structures/) | Team (3 members) | ETABS, SAFE |
+| [02. Steel Structures](02-Steel-Structures/) | Individual | ETABS, SAFE, AutoCAD |
+| [03. Road Engineering – Herat](03-Road-Engineering-Herat/) | Individual design within a group report | Civil 3D, AutoCAD |
+| [04. Water Distribution](04-Water-Distribution/) | Team (3 members) | EPANET, Civil 3D, AutoCAD |
+| [05. HEC-HMS Rainfall-Runoff Modeling](05-HEC-HMS/) | Individual | HEC-HMS, Excel |
+| [06. Building Excavation Internship](06-Excavation-Training/) | Professional Internship | Site Supervision |
 
 ---
 
-## Academic Projects
+## 01. Reinforced Concrete Structures
 
-### 01. [Reinforced Concrete Structures](01-Concrete-Structures/)
+**Team Academic Project (3 members)**  
+**Software:** ETABS 2022, SAFE
 
-**Team Academic Project (3 members) | ETABS 2022, SAFE**
+Structural analysis and design of a 12-storey reinforced concrete residential building in Tehran, incorporating intermediate moment-resisting frames, shear walls, waffle slabs, and a mat foundation.
 
-Analysis and design of a 12-storey reinforced concrete residential building in Tehran, incorporating intermediate moment-resisting frames, shear walls, and waffle slabs.
+### Engineering Highlights
 
-**Technical Scope:**
-
-- Three-dimensional structural modeling
-- Gravity and seismic load calculations
-- Structural and modal analysis
-- Inter-storey drift assessment
-- Torsional irregularity and overturning stability checks
-- Reinforced concrete member design
-- Waffle slab analysis and design
-- Mat foundation analysis and design
-- Serviceability and durability considerations
-- Structural material quantity estimation
-
-The structural design was developed with reference to Iranian building regulations and Iranian Standard No. 2800 for seismic design.
+- Three-dimensional structural modeling and seismic analysis.
+- Inter-storey drift, torsional irregularity, and overturning stability assessments.
+- Reinforced concrete member, waffle slab, and mat foundation design.
+- Structural material quantity estimation.
+- Application of Iranian building regulations and Standard No. 2800.
 
 [View Project Documentation](01-Concrete-Structures/)
 
 ---
 
-### 02. [Steel Structures](02-Steel-Structures/)
+## 02. Steel Structures
 
-**Individual Academic Project | ETABS 22.7.0, SAFE 22.7.0, AutoCAD**
+**Individual Academic Project**  
+**Software:** ETABS 22.7.0, SAFE 22.7.0, AutoCAD
 
-Structural analysis and design of a multi-storey steel building incorporating moment-resisting and braced frames, combining manual engineering calculations with computational structural modeling.
+Structural analysis and design of a multi-storey steel building incorporating moment-resisting and braced frames, combining manual engineering calculations with computational modeling.
 
-**Technical Scope:**
+### Engineering Highlights
 
-- Architectural planning and preliminary structural design
-- Gravity and seismic load calculations
-- Definition of structural load combinations
-- Manual analysis of structural frames
-- Three-dimensional structural modeling in ETABS
-- Modal analysis and seismic response assessment
-- Structural displacement and inter-storey drift evaluation
-- Torsional irregularity assessment
-- Design of steel beams, columns, and braces
-- Member strength, slenderness, and buckling checks
-- Comparison of manual and computational analysis results
-- Steel connection design and detailing
-- Strip foundation analysis using SAFE
-- Preparation of architectural and structural drawings
-
-Steel member design in ETABS was performed using AISC 360-10 design provisions.
-
-Available documentation includes original ETABS models, analysis logs, structural drawings, member design summaries, internal force diagrams, seismic response outputs, and SAFE foundation analysis results.
+- Manual frame analysis and computational verification.
+- Three-dimensional structural modeling and seismic response assessment.
+- Steel beam, column, and brace design using AISC 360-10 provisions.
+- Member strength, slenderness, and buckling checks.
+- Steel connection detailing and strip foundation analysis.
 
 [View Project Documentation](02-Steel-Structures/)
 
 ---
 
-### 03. [Road Engineering – Herat, Afghanistan](03-Road-Engineering-Herat/)
+## 03. Road Engineering – Herat, Afghanistan
 
-**Individual Route Design within a Group Academic Report | Autodesk Civil 3D, AutoCAD**
+**Individual Route Design within a Group Academic Report**  
+**Software:** Autodesk Civil 3D, AutoCAD
 
-Academic geometric design of a 12.1 km two-lane, two-way road in the Herat study area, Afghanistan, integrating transportation engineering principles, topographic analysis, infrastructure design, and construction cost estimation.
+Geometric and infrastructure design of a 12.1 km two-lane, two-way road in the Herat study area, Afghanistan.
 
-**Technical Scope:**
+### Engineering Highlights
 
-- Regional and topographic studies
-- Route selection and preliminary design
-- Horizontal alignment design
-- Vertical alignment and longitudinal profile design
-- Horizontal and vertical curve calculations
-- Superelevation design
-- Road cross-section and corridor modeling
-- Drainage and hydrological considerations
-- Cut-and-fill volume calculations
-- Mass-haul analysis
-- Pavement design using the AASHTO methodology
-- Quantity takeoff and construction cost estimation
-
-The project was developed using academic design assumptions and applicable road engineering design criteria.
+- Route selection and horizontal and vertical alignment design.
+- Road corridor modeling, cross-sections, and superelevation design.
+- Cut-and-fill calculations and mass-haul analysis.
+- Pavement design using the AASHTO methodology.
+- Drainage considerations, quantity takeoff, and cost estimation.
 
 My individual contribution focused on the design and analysis of the Herat road alignment within the collaborative academic report.
 
@@ -142,147 +90,130 @@ My individual contribution focused on the design and analysis of the Herat road 
 
 ---
 
-### 04. [Water Distribution – West Saadat Abad](04-Water-Distribution/)
+## 04. Water Distribution – West Saadat Abad
 
-**Team Academic Project (3 members) | EPANET, Civil 3D, AutoCAD**
+**Team Academic Project (3 members)**  
+**Software:** EPANET, Civil 3D, AutoCAD
 
 Academic design and hydraulic analysis of an urban water distribution network serving approximately 23,157 residents in West Saadat Abad, Tehran.
 
-**Technical Scope:**
+### Engineering Highlights
 
-- Population and water demand estimation
-- Extraction and processing of topographic data
-- Digital terrain surface modeling
-- Water distribution network layout
-- Pipe sizing and hydraulic calculations
-- Pump selection and reservoir modeling
-- Hydraulic network modeling in EPANET
-- Extended-period hydraulic simulation
-- Nodal pressure and pipe flow velocity assessment
-- Reservoir water level evaluation
-- Residual chlorine and water quality modeling
-- Interpretation of hydraulic simulation results
-
-The project integrated urban infrastructure design, hydraulic engineering principles, and numerical simulation to evaluate water distribution network performance.
+- Population and water demand estimation.
+- Topographic analysis and digital terrain modeling.
+- Network layout, pipe sizing, pump selection, and reservoir modeling.
+- Extended-period hydraulic simulation.
+- Nodal pressure, pipe velocity, and residual chlorine assessment.
 
 [View Project Documentation](04-Water-Distribution/)
 
 ---
 
-### 05. [HEC-HMS Rainfall-Runoff Modeling](05-HEC-HMS/)
+## 05. HEC-HMS Rainfall-Runoff Modeling
 
-**Individual Academic Project | HEC-HMS 4.12**
+**Individual Academic Project**  
+**Software:** HEC-HMS 4.12, Microsoft Excel
 
-Development and evaluation of a rainfall-runoff model for a hypothetical watershed covering approximately 1,029 km², consisting of four sub-basins, three junctions, and two reaches.
+Development and calibration of a rainfall-runoff model for a hypothetical watershed covering approximately 1,029 km², consisting of four sub-basins, three junctions, and two reaches.
 
-**Modeling Methodology:**
+### Engineering Highlights
 
-- Initial and Constant Loss Method
-- SCS Unit Hydrograph transformation
-- Muskingum flow routing
+- Initial and Constant Loss Method.
+- SCS Unit Hydrograph transformation.
+- Muskingum flow routing.
+- Manual calibration against supplied discharge hydrographs.
+- Model performance evaluation and sensitivity analysis of seven hydrological parameters.
 
-**Technical Scope:**
+### Calibration Results
 
-- Watershed and basin model development
-- Definition of hydrological model parameters
-- Meteorological model configuration
-- Rainfall-runoff simulation
-- Discharge hydrograph analysis
-- Manual calibration against supplied discharge hydrographs
-- Comparison of simulated and reference discharge results
-- Model performance evaluation
-- Sensitivity analysis of seven hydrological parameters
-- Interpretation of hydrological model behavior
+| Performance Indicator | Junction 1 | Junction 3 |
+|---|---:|---:|
+| Initial NSE | -0.838 | 0.831 |
+| Final NSE | 0.994 | 0.886 |
+| Final Peak Discharge (m³/s) | 235.9 | 270.6 |
+| Observed Peak Discharge (m³/s) | 228.7 | 263.1 |
 
-The project focused on understanding rainfall-runoff processes, hydrological parameter sensitivity, model calibration, and the relationship between model parameters and simulated watershed response.
+![Calibrated Hydrograph at Junction 1](05-HEC-HMS/images/03-Junction-1-After-Calibration.png)
+
+*Figure: Observed and simulated discharge hydrographs following calibration at Junction 1.*
+
+The sensitivity analysis identified impervious area as the most influential parameter affecting peak discharge at Junction 1 within the tested parameter ranges.
+
+The calibration results reflect the modeled rainfall event. Runoff volume remained overestimated at Junction 3, indicating a limitation of the calibrated model.
 
 [View Project Documentation](05-HEC-HMS/)
 
 ---
 
-## Professional Internship
+## 06. Professional Internship – Building Excavation and Retaining Systems
 
-### 06. [Building Excavation and Retaining Systems](06-Excavation-Training/)
+**Position:** Site Supervision Intern  
+**Company:** [ZaminRun Ravesh](https://zamin-run.com/en/about-us/)  
+**Project:** PorMousa Project  
+**Duration:** June – September 2025 (3 months)
 
-**Civil Engineering Internship | ZaminRun Ravesh – PorMousa Project**
+A professional internship involving construction site monitoring and documentation of building excavation and temporary retaining system activities.
 
-Three-month construction internship focused on building excavation, temporary retaining systems, and construction site monitoring.
+### Practical Experience
 
-**Practical Experience:**
+- Monitoring excavation progress and depth.
+- Observing temporary steel cross-bracing systems.
+- Monitoring steel mesh installation and shotcrete application.
+- Observing construction machinery operations and site conditions.
+- Preparing and submitting daily construction progress reports.
 
-- Construction site observation and monitoring
-- Monitoring excavation activities and construction progress
-- Observation of temporary cross-bracing systems
-- Steel mesh installation and shotcrete applications
-- Observation of excavation safety measures
-- Earthwork and quantity takeoff
-- Preparation of daily construction progress reports
-- Construction site technical documentation
+![Braced Excavation Overview](06-Excavation-Training/images/07-Braced-Excavation-Overview.png)
 
-**Theoretical Studies:**
-
-- Earth pressure principles
-- Excavation stability
-- Temporary retaining systems
-- Soil deformation and ground movement
-- Excavation support methods
-- Construction safety considerations
-
-The internship provided an opportunity to connect theoretical civil and geotechnical engineering principles with practical construction site observations.
+*Figure: Temporary steel bracing and excavation support system documented during the internship.*
 
 [View Internship Documentation](06-Excavation-Training/)
 
 ---
 
-## Academic and Technical Competencies
+## Technical Skills
 
-The projects presented in this portfolio demonstrate experience in:
-
-- Analytical and computational engineering problem-solving
-- Numerical modeling and engineering simulation
-- Application of engineering codes and design standards
-- Manual engineering calculations and computational verification
-- Interpretation and evaluation of numerical results
-- Model calibration and sensitivity analysis
-- Multidisciplinary infrastructure design
-- Technical reporting and engineering documentation
-- Individual and collaborative academic work
-- Integration of theoretical knowledge with practical engineering observations
+| Category | Software and Methods |
+|---|---|
+| Structural Engineering | ETABS, SAFE, structural modeling, seismic analysis, reinforced concrete and steel design |
+| Transportation Engineering | Autodesk Civil 3D, geometric road design, corridor modeling, earthwork calculations |
+| Hydraulic Engineering | EPANET, hydraulic network simulation, pressure and water quality analysis |
+| Hydrological Engineering | HEC-HMS, rainfall-runoff modeling, calibration, sensitivity analysis |
+| Engineering Drafting | AutoCAD, technical and engineering drawings |
+| Engineering Calculations | Microsoft Excel, Python, analytical calculations, numerical data analysis |
+| Construction Engineering | Site monitoring, excavation support systems, progress reporting |
+| Technical Documentation | Engineering reports, design calculations, numerical models, technical interpretation |
 
 ---
 
 ## Portfolio Documentation
 
-This portfolio contains selected undergraduate academic projects and practical engineering training completed during my Civil Engineering studies at Amirkabir University of Technology.
+The individual project directories contain available technical materials, including:
 
-Depending on the availability of original project materials, individual project directories contain:
+- English project briefs and report summaries.
+- Original academic reports.
+- Engineering calculations and design outputs.
+- Numerical models and software files.
+- Structural and infrastructure drawings.
+- Analysis results, graphs, and selected project photographs.
 
-- Project descriptions and academic objectives
-- Engineering methodologies and design assumptions
-- Original academic reports
-- Engineering calculations
-- Numerical models and software files
-- Structural and infrastructure drawings
-- Analysis and simulation outputs
-- Engineering results and technical interpretations
+Most original academic reports are written in Persian. English summaries are provided to facilitate international academic review.
 
-Most original academic reports are written in Persian. English project summaries are provided to facilitate international academic review.
-
-Individual and collaborative projects are clearly identified throughout the portfolio. The available documentation reflects the original project materials retained for each project.
+Individual contributions and collaborative project responsibilities are identified in the respective project documentation.
 
 The original written report for the steel structures project is unavailable. Its documentation is based on retained numerical models, engineering drawings, analysis outputs, and a reconstructed summary of the academic project methodology.
 
 All academic projects are presented for educational and graduate application purposes and do not represent certified construction-ready engineering designs.
 
+Site photographs are shared subject to company permission and confidentiality requirements.
+
 ---
 
 ## Contact
 
-**Homayoon Sarwary**
-
+**Homayoon Sarwary**  
 Civil Engineering Graduate  
 Amirkabir University of Technology (AUT)  
 Tehran Polytechnic, Iran
 
-- Email: [homayon.sarwary77@gmail.com](mailto:homayon.sarwary77@gmail.com)
-- GitHub: [Sarwary7](https://github.com/Sarwary7)
+- [Email](mailto:homayon.sarwary77@gmail.com)
+- [GitHub Profile](https://github.com/Sarwary7)
