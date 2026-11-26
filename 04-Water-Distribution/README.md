@@ -1,3 +1,4 @@
+
 # Water Distribution Network Design: West Saadat Abad, Tehran, Iran
 
 **Type:** Team Academic Project (3 Students)  
@@ -16,8 +17,6 @@ The study area covers approximately 1.9 km² and had an estimated population of 
 ![EPANET Water Distribution Network](images/Pressure.png)
 
 *EPANET network layout and simulated nodal pressure distribution.*
-
-Additional hydraulic simulation results and visual materials are available in the [Project Images](images/) folder.
 
 ## Design Basis
 
@@ -87,6 +86,38 @@ Additional hydraulic simulation results and visual materials are available in th
 | Junction Elevation Range | 1,521.71–1,630.50 m |
 | Total Elevation Difference | 108.79 m |
 | Main Loop Pipe Diameter | 700 mm |
+
+## Hydraulic Simulation Results
+
+Selected visual outputs from the EPANET hydraulic model illustrate the spatial distribution of hydraulic parameters and their variation throughout the 24-hour simulation period.
+
+### Pressure and Flow Velocity Distribution
+
+![Pressure and Flow Velocity Distribution](images/Velocity.png)
+
+*Combined visualization of nodal pressures and pipe flow velocities across the distribution network.*
+
+### Extended-Period Pressure Analysis
+
+Pressure time-series results were examined at selected network junctions to evaluate daily pressure variations under changing water-demand conditions.
+
+#### Junction J2
+
+![Pressure Time Series - Junction J2](images/Pressure-Time-Series-Node-J2.png)
+
+*Simulated pressure variation at Junction J2 over the 24-hour analysis period.*
+
+#### Junction J222
+
+![Pressure Time Series - Junction J222](images/Pressure-Time-Series-Node-J222.png)
+
+*Simulated daily pressure variation at Junction J222.*
+
+### Junction Hydraulic Results
+
+![Junction Hydraulic Results](images/Junction-Hydraulic-Results.PNG)
+
+*Selected EPANET tabular results showing junction elevations, water demands, hydraulic heads, and pressures.*
 
 ## Water Quality Analysis
 
