@@ -1,70 +1,135 @@
-# Civil Engineering Internship: Building Excavation and Retaining Systems
+# Civil Engineering Internship: Deep Excavation and Retaining Systems
 
-**Type:** Professional Internship – Site Supervision  
-**Position:** Supervisor Engineer (Intern)  
+**Type:** Professional Internship – Construction Site Supervision  
+**Position:** Site Engineering Intern  
 **Duration:** June 2025 – September 2025 (3 Months)  
-**Organization:** [ZaminRun Ravesh](https://zamin-run.com/en/about-us/)  
-**Project Site:** PorMousa Project  
+**Organization:** [Zamin Run Rosh Co.](https://zamin-run.com/en/about-us/)  
+**Project Site:** Pourmousa Residential Building Project  
+**Field:** Civil and Geotechnical Engineering  
 **Report Date:** September 2025
 
 ## Project Overview
 
-A three-month professional internship at ZaminRun Ravesh, a geotechnical and foundation engineering contractor, involving practical site supervision of building excavation and temporary retaining system construction at the PorMousa Project.
+A three-month professional internship at Zamin Run Rosh Co., a geotechnical and foundation engineering contractor, focused on building excavation, temporary retaining structures, construction site supervision, and daily progress monitoring.
 
-The project involved a residential building with three basement levels, approximately six above-ground floors, a steel structural system, and Type II soil conditions.
+The Pourmousa Project involved the construction of a residential building with three basement levels, approximately six above-ground floors, and a steel structural system.
 
-During this internship, I worked in a site-supervision role, monitoring daily construction activities, checking excavation progress and depth, following the implementation of the temporary retaining system, monitoring site safety, and preparing daily progress reports for submission to the company.
+The temporary excavation support system consisted of steel cross-bracing (struts), vertical steel members, steel mesh, and shotcrete.
 
-The temporary excavation support system used at the project consisted of cross-bracing (strut) elements combined with steel mesh and shotcrete. A truss retaining system was not used on this project.
+![Braced Excavation Overview](images/07-Braced-Excavation-Overview.png)
 
-## Hands-on Site Experience
+*Figure 1. General view of the excavation and temporary steel cross-bracing system at the Pourmousa Project.*
 
-My practical exposure and site-supervision activities included:
+## Project Specifications
 
-- **Excavation Operations:** Monitoring daily excavation activities, construction sequence, excavation progress, and depth control.
-- **Temporary Retaining System:** Following the implementation of the cross-bracing (strut) system used to support the excavation walls.
-- **Surface Support:** Monitoring steel mesh installation and shotcrete application.
-- **Construction Machinery:** Observing and following the operation of excavation machinery and equipment.
-- **Site Safety:** Monitoring site conditions and observing potential construction and excavation hazards.
-- **Progress Reporting:** Preparing daily site progress reports and submitting them to the company.
-
-## Technical Topics Studied
-
-The internship report also covered theoretical and technical topics related to geotechnical engineering and deep excavation, including:
-
-- **Excavation Methods:** Braced and unbraced excavation systems and their construction considerations.
-- **Ground Stabilization:** Soil nailing, ground anchors, and strut bracing principles.
-- **Earth Pressure:** Lateral earth pressure and its role in temporary retaining system design.
-- **Excavation Stability:** Base heave, ground deformation, stability considerations, and potential effects on adjacent structures.
-- **Anchor Testing:** Load-bearing, performance, and creep testing principles.
-- **Engineering Standards:** Relevant provisions of the Iranian National Building Code, Part 7 (Foundations).
-
-These topics were studied as part of the technical and academic scope of the internship and should not be interpreted as systems or tests personally executed at the project site.
+| Parameter | Description |
+|---|---|
+| Project type | Residential building |
+| Above-ground floors | Approximately 6 |
+| Basement levels | 3 |
+| Structural system | Steel structure |
+| Soil classification | Type II |
+| Excavation support system | Temporary steel cross-bracing (struts) |
+| Excavation wall surface support | Steel mesh and shotcrete |
+| Internship duration | 3 months |
+| Internship period | June–September 2025 |
 
 ## My Responsibilities
 
-During the internship, I worked in a site-supervision role and carried out the following responsibilities:
+During the internship, I assisted with construction site supervision and carried out the following activities:
 
-- Monitored daily building excavation operations and checked excavation progress and depth.
-- Followed the construction progress of the temporary cross-bracing (strut) retaining system.
-- Monitored steel mesh installation and shotcrete application.
-- Observed site safety conditions and potential construction risks.
-- Followed construction machinery operations and excavation sequencing.
-- Prepared daily construction progress reports and submitted them to the company.
+- **Excavation Monitoring:** Monitored daily excavation activities, construction progress, excavation sequencing, and depth.
+- **Retaining System Monitoring:** Followed the construction progress of vertical steel members and temporary cross-bracing elements.
+- **Surface Support Monitoring:** Observed steel mesh installation and shotcrete application.
+- **Construction Machinery:** Followed excavation machinery operations and their coordination with other site activities.
+- **Site Safety Awareness:** Observed site conditions and potential excavation-related hazards.
+- **Daily Progress Reporting:** Prepared daily construction progress reports and submitted them to the company.
+
+## Selected Site Photographs
+
+The following photographs were personally taken during the internship and document actual construction activities at the Pourmousa Project.
+
+### Vertical Steel Members
+
+![Vertical Steel Member](images/03-Vertical-Steel-Member.png)
+
+*Figure 2. Vertical steel member associated with the temporary excavation support system.*
+
+### Steel Mesh and Shotcrete
+
+![Steel Mesh and Shotcrete](images/05-Mesh-and-Shotcrete.png)
+
+*Figure 3. Steel mesh and shotcrete-related activities along the excavation walls.*
+
+### Excavation Operations
+
+![Excavation Operations](images/08-Excavation-Floor-Grading.png)
+
+*Figure 4. Excavation machinery and earthwork activities within the supported excavation.*
+
+Additional photographs are available in the [Site Images Gallery](images/).
+
+## Technical Topics Studied
+
+In addition to practical site experience, the internship report covered the following engineering topics:
+
+| Technical Topic | Scope of Study |
+|---|---|
+| Excavation methods | Braced and unbraced excavation systems |
+| Ground stabilization | Soil nailing, ground anchors, and steel struts |
+| Lateral earth pressure | Earth pressure principles and retaining structure behavior |
+| Excavation stability | Base heave, ground deformation, and adjacent building protection |
+| Anchor testing | Load-bearing, performance, and creep testing principles |
+| Retaining structures | Design fundamentals and construction considerations |
+| Engineering standards | Iranian National Building Code, Part 7 (Foundations) |
+| Site management | Construction coordination, risk awareness, and progress monitoring |
+
+These topics formed the theoretical and academic component of the internship. They do not imply that all the studied methods or tests were implemented at the Pourmousa Project or personally performed by me.
+
+## Internship Report
+
+**Deep Excavation and Retaining Structures: Methods, Design Fundamentals, and Site Management**
+
+The technical report combines academic engineering principles with practical observations gained during the internship.
+
+It is organized into five main chapters:
+
+1. Excavation
+2. Fundamentals of Retaining Structure Calculations
+3. Retaining Structure Construction Methods
+4. Cross-Bracing (Struts)
+5. Construction Site and Excavation Management
+
+| Document | Language |
+|---|---|
+| [Internship Report – English Version (PDF)](report/Excavation-Training-Report-EN.pdf) | English |
+| [Internship Report – Original Version (PDF)](report/Excavation-Training-Report-FA.pdf) | Persian |
 
 ## Key Skills Developed
 
-- Construction site supervision
-- Daily progress monitoring and reporting
-- Excavation sequencing and construction procedures
-- Temporary retaining system awareness
-- HSE and site safety awareness
+- Construction site supervision and progress monitoring
+- Daily technical reporting and documentation
+- Understanding of excavation sequencing
+- Familiarity with temporary retaining structures
 - Practical understanding of geotechnical engineering
-- Construction coordination and communication
+- Construction machinery and site coordination awareness
+- Health, Safety, and Environment (HSE) awareness
+- Engineering communication
+- Integration of theoretical knowledge with practical site observations
+
+## Professional Scope
+
+This internship provided practical exposure to excavation operations, temporary retaining systems, and construction site management.
+
+My role focused on monitoring, observation, documentation, and supporting site-supervision activities. Independent structural or geotechnical design and formal engineering approval were outside the scope of my internship responsibilities.
 
 ## Project Files
 
-- [Internship Report – English Translation (PDF)](report/Excavation-Training-Report.pdf)
-- [Site Images](images/)
+| Folder | Contents |
+|---|---|
+| [Report](report/) | English and Persian internship reports |
+| [Images](images/) | Selected original site photographs |
 
-*Site photographs are shared selectively, subject to company permission and the protection of confidential project information.*
+---
+
+*Site photographs were personally taken during the internship and are shared selectively, subject to company permission, privacy considerations, and the protection of confidential project information.*
