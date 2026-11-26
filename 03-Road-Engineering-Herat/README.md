@@ -1,3 +1,4 @@
+
 # Road Engineering Project: Herat, Afghanistan
 
 **Type:** Individual Route Design within a Group Report (Group 6, Four Members)  
@@ -39,6 +40,48 @@ The report was prepared in a group-report format. My route, calculations, and re
 - **Road Signage and Markings:** Preparation of the traffic signage and road marking plan.
 - **Quantities and Cost:** Quantity takeoff and cost estimation based on the 2024 unit-price list.
 
+## Geometric Design
+
+### Horizontal Alignment
+
+![Detailed Road Alignment Plan](images/detailed-road-alignment-plan.png.png)
+
+*Detailed horizontal alignment plan illustrating the designed road geometry and route configuration.*
+
+### Vertical Alignment
+
+![Vertical Alignment Profile](images/vertical-alignment-profile.png)
+
+*Longitudinal profile illustrating the existing terrain, proposed road elevations, longitudinal gradients, and vertical curves.*
+
+### Road Cross Sections
+
+![Road Cross Sections](images/road-cross-sections.png)
+
+*Selected road cross-sections developed in Autodesk Civil 3D, illustrating the roadway geometry and earthwork conditions.*
+
+## Earthwork Analysis
+
+Earthwork analysis included the calculation of excavation and embankment quantities and the development of mass-haul diagrams to evaluate material distribution along the designed route.
+
+### Original Mass-Haul Diagram
+
+![Original Mass Haul Diagram](images/mass-haul-diagram.png)
+
+*Original mass-haul (Brückner) diagram illustrating cumulative earthwork quantities along the route.*
+
+### Adjusted Mass-Haul Diagram
+
+![Adjusted Mass Haul Diagram](images/adjusted-mass-haul-diagram.png)
+
+*Adjusted mass-haul diagram developed as part of the earthwork balancing and material distribution analysis.*
+
+## Traffic Signage and Road Markings
+
+![Road Signage and Marking Plan](images/road-signage-and-marking-plan.png)
+
+*Traffic signage and road marking plan prepared as part of the road engineering design.*
+
 ## Selected Results
 
 | Item | Value |
@@ -57,12 +100,14 @@ Shared chapters covering regional descriptions, design assumptions, and hydrolog
 
 ## Project Files
 
-- [Project Brief](project-brief/)
-- [English Report Summary](report/Road-Engineering-Report-Summary.pdf)
-- [Full Group Report and Documentation](report/)
-- [Software Files](software-files/)
-- [Design Outputs](design-outputs/)
-- [Drawings and Images](images/)
+| Section | Description |
+|---|---|
+| [Project Brief](project-brief/) | Project requirements, design objectives, and introductory documentation. |
+| [English Report Summary](report/Road-Engineering-Report-Summary.pdf) | Concise English summary of the engineering design and selected results. |
+| [Full Group Report and Documentation](report/) | Detailed academic report, calculations, and supporting documentation. |
+| [Software Files](software-files/) | Original Autodesk Civil 3D and AutoCAD project files. |
+| [Design Outputs](design-outputs/) | Engineering design outputs and supporting calculations. |
+| [Drawings and Images](images/) | Selected engineering drawings, profiles, cross-sections, and diagrams. |
 
 ---
 
