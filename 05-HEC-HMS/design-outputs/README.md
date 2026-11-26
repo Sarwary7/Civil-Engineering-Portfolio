@@ -1,29 +1,46 @@
-# Simulation Results and Design Outputs
+# HEC-HMS Simulation Data and Design Outputs
 
-This folder contains the simulation results, calibration data, and hydrological analysis outputs generated during the HEC-HMS project.
+This folder contains the supporting hydrological data, model parameters, and sensitivity analysis calculations for the HEC-HMS Rainfall-Runoff Modeling academic project.
 
-## Available and Planned Outputs
+## Supporting Data and Calculations
 
-### 1. Calibration Results
-- Observed and simulated discharge hydrographs at Junction 1 and Junction 3.
-- Initial and final calibration comparisons.
-- Peak discharge and runoff volume comparisons.
-- Nash-Sutcliffe Efficiency (NSE) and percent bias results.
+The Excel workbook includes:
 
-### 2. Sensitivity Analysis
-- Effects of seven hydrological parameters on simulated runoff.
-- Changes in peak discharge and runoff volume.
-- Analysis of hydrograph shape and timing.
+- Basin connectivity and downstream element configuration.
+- Drainage areas of the four subbasins.
+- Initial and Constant Loss method parameters.
+- SCS Unit Hydrograph transformation parameters.
+- Muskingum routing parameters.
+- Precipitation time-series data from two rain gauges.
+- Observed discharge data at Junction 1 and Junction 3.
+- Quantitative and qualitative sensitivity analysis of seven hydrological parameters.
 
-### 3. Simulation Data
-- Model simulation results.
-- Observed and simulated discharge data.
-- Supporting tables and calculations.
+**File:** [Project Initial Data](Project%20Initial%20Data.xlsx)
 
-## Output Formats
+## Sensitivity Analysis
 
-- Graph images (`.png`)
-- Data tables (`.xlsx` or `.csv`)
-- Simulation output files (where available)
+The workbook includes a peak discharge sensitivity analysis at Junction 1, considering parameter variations of −20%, −10%, 0%, +10%, and +20%.
 
-The outputs are intended to illustrate model performance, calibration improvements, and parameter sensitivity.
+The investigated parameters include:
+
+- Muskingum K
+- Muskingum X
+- Number of subreaches
+- Lag time
+- Initial loss
+- Constant loss rate
+- Impervious area
+
+The analysis also includes a qualitative assessment of changes in runoff volume, peak discharge, hydrograph shape, peak timing, and hydrograph base time.
+
+## Related Simulation Results
+
+Selected HEC-HMS simulation outputs are available in the [Project Images](../images/) folder, including:
+
+- Basin model configuration.
+- Pre- and post-calibration hydrographs.
+- Final downstream hydrograph at Junction 3.
+- Calibration statistics, including NSE and percent bias.
+- Peak discharge sensitivity analysis graph.
+
+These materials document the hydrological model inputs, parameter configuration, calibration performance, and sensitivity analysis of the academic project.
