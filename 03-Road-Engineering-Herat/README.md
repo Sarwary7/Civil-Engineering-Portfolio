@@ -12,6 +12,10 @@ Design of a 12.1 km, two-lane, two-way Class 1 collector-distributor road in Her
 
 The report was prepared in a group-report format. My route, calculations, and results are identified by my name in the relevant sections.
 
+![Road Alignment Overview](images/road-alignment-overview.png)
+
+*Overview of the designed road alignment and surrounding topography.*
+
 ## Design Basis
 
 | Item | Value |
@@ -30,14 +34,16 @@ The report was prepared in a group-report format. My route, calculations, and re
 - **Vertical Alignment:** 13 parabolic vertical curves (8 crest and 5 sag), with gradient and curve-length checks.
 - **Sight Distance:** Sight-distance and lateral-clearance evaluations.
 - **Hydrology and Drainage:** Runoff estimation and design of drainage channels and culverts.
-- **Earthwork:** Civil 3D cross-sections, cut-and-fill volumes, and mass-haul (Brückner) diagrams.
+- **Earthwork:** Civil 3D cross-sections, cut-and-fill volumes, and original and adjusted mass-haul (Brückner) diagrams.
 - **Pavement Design:** AASHTO-based design, including equivalent axle loads, ESAL calculations, and pavement layer thicknesses.
+- **Road Signage and Markings:** Preparation of the traffic signage and road marking plan.
 - **Quantities and Cost:** Quantity takeoff and cost estimation based on the 2024 unit-price list.
 
 ## Selected Results
 
 | Item | Value |
 |---|---|
+| Route Length | Approximately 12.13 km |
 | Horizontal Curves | 7 |
 | Vertical Curves | 13 |
 | Total Excavation | Approximately 822,690 m³ |
@@ -45,13 +51,19 @@ The report was prepared in a group-report format. My route, calculations, and re
 
 ## My Contribution
 
-Individually completed the design of my assigned route, including route selection, horizontal and vertical alignment, earthwork calculations, and cost estimation. Shared chapters covering regional descriptions, design assumptions, and hydrological methods were prepared jointly by the group.
+Individually completed the design of my assigned route, including route selection, horizontal and vertical alignment, earthwork calculations, and cost estimation.
+
+Shared chapters covering regional descriptions, design assumptions, and hydrological methods were prepared jointly by the group.
 
 ## Project Files
 
 - [Project Brief](project-brief/)
 - [English Report Summary](report/Road-Engineering-Report-Summary.pdf)
-- [Full Group Report (Persian)](report/Road-Engineering-Report-Persian.pdf)
+- [Full Group Report and Documentation](report/)
 - [Software Files](software-files/)
 - [Design Outputs](design-outputs/)
 - [Drawings and Images](images/)
+
+---
+
+*This project was completed as part of an academic road engineering course and is presented for portfolio demonstration purposes.*
