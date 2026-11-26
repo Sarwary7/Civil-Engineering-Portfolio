@@ -1,31 +1,25 @@
-# Design Outputs
+# Water Distribution Network Design Outputs
 
-This folder contains the engineering calculations and selected hydraulic analysis outputs for the Water Distribution Network Design project in West Saadat Abad, Tehran.
+This folder contains the engineering design calculations for the Water Distribution Network Design project in West Saadat Abad, Tehran, Iran.
 
-## Available and Planned Outputs
+## Design Calculations
 
-### 1. Design Calculations
-- Water demand estimation and allocation
-- Junction service-area calculations
-- Reservoir and storage calculations
-- Network geometry, pipe lengths, and elevation data
+The Excel workbook includes:
 
-**File:** `Water-Distribution-Design-Calculations.xlsx`
+- Water demand estimation and allocation.
+- Junction service-area calculations.
+- Reservoir and storage calculations.
+- Network geometry, pipe lengths, and elevation data.
 
-### 2. EPANET Hydraulic Analysis
-- Pressure distribution map
-- Flow velocity distribution map
-- Junction hydraulic results
-- Hydraulic simulation results over a 24-hour period
+**File:** [Water Distribution Design Calculations](Water-Distribution-Design-Calculations.xlsx.xlsx)
 
-### 3. Pressure Time-Series Graphs
-- Pressure variation at Junction J2
-- Pressure variation at Junction J222
+## Related Hydraulic Analysis Outputs
 
-## Output Formats
+Selected EPANET hydraulic analysis results are available in the [Project Images](../images/) folder, including:
 
-- Excel spreadsheets (`.xlsx`)
-- Network map exports (`.emf`)
-- Graph images (`.png`)
+- Pressure distribution map.
+- Pressure and flow velocity distribution map.
+- Junction hydraulic results.
+- 24-hour pressure time-series graphs for junctions J2 and J222.
 
-The outputs are intended to document the design calculations and hydraulic performance of the water distribution network.
+These materials document the engineering design calculations, hydraulic analysis, and simulation results of the academic project.
