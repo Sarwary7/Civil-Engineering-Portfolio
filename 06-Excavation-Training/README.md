@@ -13,6 +13,10 @@ A three-month professional internship at ZaminRun Ravesh, a geotechnical and fou
 
 The internship provided practical exposure to excavation operations, temporary excavation support systems, construction machinery, site safety considerations, and engineering progress reporting.
 
+![Braced Excavation Overview](images/07-Braced-Excavation-Overview.png)
+
+*Figure 1. Overview of the building excavation and temporary steel bracing system at the project site.*
+
 ## Project Characteristics
 
 | Parameter | Description |
@@ -50,13 +54,25 @@ My responsibilities included:
 - Following the implementation of the temporary cross-bracing system.
 - Monitoring steel mesh installation and shotcrete application.
 - Observing construction machinery operations and excavation sequencing.
-- Monitoring site safety conditions and identifying potential construction hazards.
+- Monitoring site safety conditions and observing potential construction hazards.
 - Preparing daily construction progress reports and submitting them to the company.
 - Documenting construction activities through site photography.
 
 ## Temporary Excavation Support System
 
 The excavation support system implemented at the project consisted of temporary steel cross-bracing (struts), vertical steel support members, steel mesh, and shotcrete.
+
+### Steel Cross-Bracing System
+
+![Steel Cross-Bracing System](images/06-Steel-Cross-Bracing.png)
+
+*Figure 2. Temporary steel cross-bracing elements used to support the excavation walls.*
+
+### Steel Mesh and Shotcrete
+
+![Steel Mesh and Shotcrete](images/05-Mesh-and-Shotcrete.png)
+
+*Figure 3. Steel mesh and shotcrete used for excavation wall surface support.*
 
 The internship provided practical exposure to the construction sequence and implementation of these temporary support elements within an urban building excavation.
 
@@ -90,9 +106,9 @@ These topics were studied as part of the technical and academic scope of the int
 
 ## Site Documentation
 
-Selected original photographs taken during the internship document excavation operations, temporary steel bracing, steel mesh installation, shotcrete application, and construction site conditions.
+Eight selected original photographs taken during the internship document excavation operations, vertical steel support members, temporary cross-bracing, steel mesh installation, shotcrete application, and excavation floor grading.
 
-[View Internship Site Photographs](images/)
+[View Full Site Photo Gallery](images/)
 
 ## Project Reports
 
@@ -110,7 +126,7 @@ The reports cover practical site activities, excavation procedures, temporary re
 | Folder | Contents |
 |---|---|
 | [Reports](report/) | English and original Persian internship reports |
-| [Site Images](images/) | Selected original construction site photographs |
+| [Site Images](images/) | Eight selected original construction site photographs |
 
 ## Confidentiality Note
 
