@@ -5,8 +5,8 @@
 Civil Engineering Graduate  
 Amirkabir University of Technology (AUT) – Tehran Polytechnic, Tehran, Iran
 
-[Email](mailto:YOUR_EMAIL_ADDRESS) | [GitHub: Sarwary7](https://github.com/Sarwary7)
-
+📧 **Email:** [homayon.sarwary77@gmail.com](mailto:homayon.sarwary77@gmail.com)  
+💻 **GitHub:** [Sarwary7](https://github.com/Sarwary7)
 ---
 
 ## About Me
@@ -274,7 +274,7 @@ Professional site photographs and internship documentation are shared subject to
 Civil Engineering Graduate  
 Amirkabir University of Technology (AUT) – Tehran Polytechnic
 
-- **Email:** [Contact via Email](mailto:YOUR_EMAIL_ADDRESS)
+- **Email:** [homayon.sarwary77@gmail.com](mailto:homayon.sarwary77@gmail.com)
 - **GitHub:** [Sarwary7](https://github.com/Sarwary7)
 
 ---
