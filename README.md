@@ -5,266 +5,269 @@
 Civil Engineering Graduate  
 Amirkabir University of Technology (AUT) – Tehran Polytechnic, Tehran, Iran
 
-📧 **Email:** [homayon.sarwary77@gmail.com](mailto:homayon.sarwary77@gmail.com)  
-💻 **GitHub:** [Sarwary7](https://github.com/Sarwary7)
+**📧 Email:** [homayon.sarwary77@gmail.com](mailto:homayon.sarwary77@gmail.com)  
+**💻 GitHub:** [Sarwary7](https://github.com/Sarwary7)
+
 ---
 
 ## About Me
 
-I am a Civil Engineering graduate from Amirkabir University of Technology (AUT), with an academic background in structural engineering, transportation engineering, hydraulics, hydrology, and geotechnical engineering.
+I am a Civil Engineering graduate from Amirkabir University of Technology (AUT), with an academic background in structural engineering, transportation engineering, hydraulics, hydrology, and infrastructure design, complemented by practical experience in construction site supervision.
 
-This portfolio presents a selection of my undergraduate engineering projects and professional internship experience, demonstrating the application of engineering principles, numerical modeling, technical analysis, design methodologies, and construction site supervision.
+My academic projects involve reinforced concrete and steel structural design, road geometric design, urban water distribution network modeling, and rainfall-runoff simulation.
 
-The repository includes technical reports, engineering models, design outputs, calculations, and selected visual documentation.
+My professional internship provided practical exposure to building excavation, temporary retaining systems, construction progress monitoring, site safety, and daily engineering reporting.
+
+This portfolio presents selected academic projects and professional internship experience, supported by technical reports, engineering calculations, software models, design outputs, drawings, and site photographs.
+
+---
 
 ## Technical Skills
 
-| Engineering Discipline | Technical Skills |
+| Engineering Field | Technical Skills |
 |---|---|
-| Structural Engineering | Reinforced concrete and steel structural modeling, analysis, and design |
-| Foundation Engineering | Foundation modeling and analysis |
-| Transportation Engineering | Road geometric design, horizontal and vertical alignment, earthwork analysis, and traffic signage |
-| Hydraulic Engineering | Water distribution network modeling, pressure and velocity analysis, and hydraulic simulation |
-| Engineering Hydrology | Rainfall-runoff modeling, model calibration, and sensitivity analysis |
-| Geotechnical Engineering | Excavation support systems, ground stabilization principles, and construction site observations |
-| Construction Engineering | Site supervision, progress monitoring, technical reporting, and safety awareness |
+| Structural Engineering | Structural analysis, reinforced concrete design, steel design, and foundation analysis |
+| Transportation Engineering | Road geometric design, horizontal and vertical alignment, earthwork, pavement design, and cost estimation |
+| Water Engineering | Water distribution network design, hydraulic modeling, demand estimation, and pump selection |
+| Hydrology | Rainfall-runoff modeling, manual calibration, and sensitivity analysis |
+| Geotechnical Engineering | Excavation supervision, temporary retaining systems, and ground stabilization awareness |
+| Construction Management | Site supervision, quantity takeoff, progress monitoring, safety awareness, and technical reporting |
+| Engineering Documentation | Technical reports, engineering drawings, calculations, and interpretation of simulation results |
 
 ## Engineering Software
 
-| Software | Engineering Application |
+| Software | Engineering Applications |
 |---|---|
-| ETABS | Structural modeling, analysis, and design |
-| SAFE | Foundation modeling and analysis |
-| Autodesk Civil 3D | Road geometric design and earthwork analysis |
-| AutoCAD | Engineering drawings and technical documentation |
-| HEC-HMS | Hydrological modeling and rainfall-runoff simulation |
+| ETABS | Structural modeling, analysis, and design of reinforced concrete and steel buildings |
+| SAFE | Foundation and slab modeling, analysis, and design |
+| Autodesk Civil 3D | Terrain modeling, road geometric design, profiles, cross-sections, and earthwork calculations |
+| AutoCAD | Engineering drafting, structural drawings, and infrastructure layouts |
+| EPANET | Water distribution network modeling, hydraulic simulation, and water quality analysis |
+| HEC-HMS | Rainfall-runoff modeling, watershed simulation, calibration, and sensitivity analysis |
+| Python | Engineering data processing and Voronoi-based service-area allocation |
+| Microsoft Excel | Engineering calculations, quantity estimation, data processing, and result analysis |
 
 ---
 
 ## Portfolio Overview
 
-| No. | Project | Engineering Field | Project Category |
+| No. | Project | Project Type | Main Software |
 |---|---|---|---|
-| 01 | [Reinforced Concrete Structures](01-Concrete-Structures/) | Structural Engineering | Academic Project |
-| 02 | [Steel Structures](02-Steel-Structures/) | Structural Engineering | Academic Project |
-| 03 | [Road Engineering – Herat](03-Road-Engineering-Herat/) | Transportation Engineering | Academic Project |
-| 04 | [Water Distribution Network](04-Water-Distribution/) | Hydraulic Engineering | Academic Project |
-| 05 | [HEC-HMS Rainfall-Runoff Modeling](05-HEC-HMS/) | Engineering Hydrology | Individual Academic Project |
-| 06 | [Building Excavation and Retaining Systems](06-Excavation-Training/) | Geotechnical and Construction Engineering | Professional Internship |
+| 01 | [Concrete Structures](01-Concrete-Structures/) | Team Academic Project (3 Members) | ETABS, SAFE |
+| 02 | [Steel Structures](02-Steel-Structures/) | Individual Academic Project | ETABS, SAFE, AutoCAD |
+| 03 | [Road Engineering – Herat](03-Road-Engineering-Herat/) | Individual Route Design within a Group Report | Civil 3D, AutoCAD |
+| 04 | [Water Distribution Network](04-Water-Distribution/) | Team Academic Project (3 Members) | EPANET, Civil 3D, AutoCAD, Excel, Python |
+| 05 | [HEC-HMS Rainfall-Runoff Modeling](05-HEC-HMS/) | Individual Academic Project | HEC-HMS |
+| 06 | [Building Excavation Internship](06-Excavation-Training/) | Professional Internship – Site Supervision | Field Experience |
 
 ---
 
-## Selected Engineering Projects
+## Academic Projects
 
 ### 01. Reinforced Concrete Structures
 
-**Field:** Structural Engineering  
-**Software:** ETABS and SAFE
+**Project Type:** Team Academic Project (3 Members)  
+**Software:** ETABS 2022, SAFE
 
-Structural modeling, analysis, and design of a reinforced concrete building, including structural framing, floor systems, and foundation modeling.
+Structural analysis and design of a 12-storey reinforced concrete residential building in Tehran, incorporating intermediate moment frames, shear walls, waffle slabs, and a mat foundation.
+
+**Key Engineering Activities:**
+
+- Three-dimensional structural modeling
+- Structural analysis and reinforced concrete design
+- Moment frame and shear wall design
+- Foundation analysis and design
+- Structural material quantity estimation
 
 <p align="center">
-  <img src="01-Concrete-Structures/images/etabs-3d-model.png" width="650" alt="Reinforced concrete building structural model in ETABS">
+  <img src="01-Concrete-Structures/images/etabs-3d-model.png" width="75%" alt="Reinforced concrete building structural model">
 </p>
 
-<p align="center">
-  <em>Three-dimensional reinforced concrete structural model developed in ETABS.</em>
-</p>
+*Three-dimensional ETABS model of the reinforced concrete building.*
 
-**Key Technical Areas:**
-
-- Reinforced concrete structural modeling
-- Structural analysis and design
-- Beam and column systems
-- Structural floor plans
-- Foundation modeling using SAFE
-
-[View Full Project →](01-Concrete-Structures/)
+[View Full Project Documentation →](01-Concrete-Structures/)
 
 ---
 
 ### 02. Steel Structures
 
-**Field:** Structural Engineering  
-**Software:** ETABS
+**Project Type:** Individual Academic Project  
+**Software:** ETABS 22.7.0, SAFE 22.7.0, AutoCAD
 
-Structural modeling and analysis of a steel building incorporating moment-resisting frames and braced structural systems.
+Structural analysis and design of a five-storey steel building incorporating moment-resisting and braced structural frames.
+
+**Key Engineering Activities:**
+
+- Three-dimensional structural modeling
+- Steel member analysis and design
+- Manual analysis verification
+- Beam-column connection design
+- Foundation analysis
+- Structural drawings
 
 <p align="center">
-  <img src="02-Steel-Structures/images/etabs-3d-model.png" width="650" alt="Steel building structural model in ETABS">
+  <img src="02-Steel-Structures/images/etabs-3d-model.png" width="75%" alt="Steel building structural model">
 </p>
 
-<p align="center">
-  <em>Three-dimensional steel structural model illustrating beams, columns, and bracing systems.</em>
-</p>
+*Three-dimensional ETABS model of the steel structural system.*
 
-**Key Technical Areas:**
-
-- Steel structural modeling and analysis
-- Moment-resisting frames
-- X-braced structural systems
-- Structural member configuration
-- Structural floor plans and frame elevations
-
-[View Full Project →](02-Steel-Structures/)
+[View Full Project Documentation →](02-Steel-Structures/)
 
 ---
 
 ### 03. Road Engineering – Herat, Afghanistan
 
-**Field:** Transportation Engineering  
-**Software:** Autodesk Civil 3D and AutoCAD  
-**Road Length:** Approximately 12.1 km
+**Project Type:** Individual Route Design within a Group Report (4 Members)  
+**Software:** Autodesk Civil 3D, AutoCAD  
+**Route Length:** Approximately 12.1 km  
+**Design Speed:** 80 km/h
 
-An academic road engineering project involving geometric road design, route alignment, earthwork analysis, and traffic signage planning in Herat, Afghanistan.
+Geometric design of a two-lane, two-way road in Herat, Afghanistan, based on topographic data and specified engineering design constraints.
+
+**Key Engineering Activities:**
+
+- Route selection and geometric design
+- Horizontal and vertical alignment
+- Design of 7 horizontal and 13 vertical curves
+- Road cross-sections and earthwork calculations
+- Original and adjusted mass-haul diagrams
+- Hydrology and drainage design
+- AASHTO pavement design
+- Traffic signage and road markings
+- Quantity takeoff and construction cost estimation
 
 <p align="center">
-  <img src="03-Road-Engineering-Herat/images/road-alignment-overview.png" width="750" alt="Road alignment overview for the Herat road engineering project">
+  <img src="03-Road-Engineering-Herat/images/road-alignment-overview.png" width="85%" alt="Road alignment overview in Herat">
 </p>
 
-<p align="center">
-  <em>Overview of the proposed road alignment developed using Autodesk Civil 3D.</em>
-</p>
+*Overview of the designed road alignment and surrounding topography.*
 
-**Key Technical Areas:**
-
-- Horizontal and vertical alignment design
-- Road cross-sections
-- Earthwork quantity analysis
-- Mass haul diagrams
-- Traffic signage and road marking plans
-- Engineering drawings and design documentation
-
-[View Full Project →](03-Road-Engineering-Herat/)
+[View Full Project Documentation →](03-Road-Engineering-Herat/)
 
 ---
 
-### 04. Water Distribution Network Design
+### 04. Water Distribution Network – West Saadat Abad, Tehran
 
-**Field:** Hydraulic Engineering  
-**Project Area:** West Saadat Abad, Tehran, Iran
+**Project Type:** Team Academic Project (3 Members)  
+**Software:** EPANET, Autodesk Civil 3D, AutoCAD, Microsoft Excel, Python  
+**Study Area:** Approximately 1.9 km²  
+**Initial Population:** 23,157 (2021)  
+**Network Junctions:** 241
 
-Hydraulic modeling and analysis of an urban water distribution network, including the evaluation of network pressure, pipe flow velocity, and hydraulic performance over a 24-hour simulation period.
+Design and hydraulic analysis of an urban water distribution network for the western Saadat Abad district of Tehran, Iran.
+
+**Key Engineering Activities:**
+
+- Terrain modeling and network layout
+- Population forecasting and water demand estimation
+- Voronoi-based junction service-area allocation using Python
+- EPANET hydraulic network modeling
+- Pump selection and storage calculations
+- Pressure and flow velocity evaluation
+- 24-hour extended-period simulation
+- Residual chlorine and water quality modeling
 
 <p align="center">
-  <img src="04-Water-Distribution/images/Pressure.png" width="700" alt="Water distribution network pressure distribution map">
+  <img src="04-Water-Distribution/images/Pressure.png" width="85%" alt="EPANET water distribution network pressure map">
 </p>
 
-<p align="center">
-  <em>Spatial distribution of hydraulic pressure across the water distribution network.</em>
-</p>
+*EPANET network layout and simulated nodal pressure distribution.*
 
-**Key Technical Areas:**
-
-- Water distribution network modeling
-- Hydraulic pressure analysis
-- Pipe flow velocity evaluation
-- Junction hydraulic performance
-- Extended-period hydraulic simulation
-- Interpretation of hydraulic simulation results
-
-[View Full Project →](04-Water-Distribution/)
+[View Full Project Documentation →](04-Water-Distribution/)
 
 ---
 
 ### 05. HEC-HMS Rainfall-Runoff Modeling
 
-**Field:** Engineering Hydrology  
-**Software:** HEC-HMS  
 **Project Type:** Individual Academic Project  
+**Software:** HEC-HMS 4.12  
 **Watershed Area:** Approximately 1,029 km²
 
-Development of a rainfall-runoff model for a hypothetical watershed consisting of four sub-basins, three junctions, and two routing reaches.
+Development of a hydrological rainfall-runoff model for a hypothetical watershed consisting of four sub-basins, three junctions, and two routing reaches.
 
-The project involved hydrological simulation, manual model calibration against observed discharge hydrographs, and parameter sensitivity analysis.
-
-<p align="center">
-  <img src="05-HEC-HMS/images/03-Junction-1-After-Calibration.png" width="700" alt="Observed and simulated discharge hydrographs after calibration at Junction 1">
-</p>
-
-<p align="center">
-  <em>Comparison of observed and simulated discharge hydrographs after calibration at Junction 1.</em>
-</p>
-
-**Key Technical Areas:**
+**Key Engineering Activities:**
 
 - Watershed and basin modeling
 - Rainfall-runoff simulation
-- Initial and constant loss method
-- SCS unit hydrograph
+- Initial and constant loss modeling
+- SCS unit hydrograph transformation
 - Muskingum routing
-- Manual model calibration
-- Parameter sensitivity analysis
+- Manual calibration against observed discharge hydrographs
 - Model performance evaluation
+- Sensitivity analysis of seven hydrological parameters
 
-The calibrated model achieved a Nash-Sutcliffe efficiency (NSE) of 0.994 at Junction 1. At Junction 3, the model reproduced the observed peak reasonably well, although runoff volume remained overestimated.
+The final calibrated model achieved a Nash-Sutcliffe efficiency of 0.994 at Junction 1 and 0.886 at Junction 3 for the modeled event.
 
-[View Full Project →](05-HEC-HMS/)
+<p align="center">
+  <img src="05-HEC-HMS/images/03-Junction-1-After-Calibration.png" width="85%" alt="HEC-HMS calibrated discharge hydrograph">
+</p>
+
+*Comparison of simulated and observed discharge hydrographs after calibration at Junction 1.*
+
+[View Full Project Documentation →](05-HEC-HMS/)
 
 ---
 
-## Professional Internship Experience
+## Professional Internship
 
-### 06. Building Excavation and Retaining Systems
+### 06. Building Excavation and Temporary Retaining Systems
 
-**Field:** Geotechnical and Construction Engineering  
 **Position:** Site Supervision Intern  
 **Organization:** [ZaminRun Ravesh](https://zamin-run.com/en/about-us/)  
 **Project Site:** PorMousa Project  
 **Duration:** June 2025 – September 2025 (3 Months)
 
-A three-month professional internship involving construction site supervision and practical exposure to building excavation and temporary retaining systems.
+A three-month professional internship with a geotechnical and foundation engineering contractor, involving practical exposure to building excavation and temporary retaining system construction.
 
-The project involved a residential building with three basement levels, approximately six above-ground floors, and a steel structural system.
+The project involved a residential building with three basement levels and approximately six above-ground floors.
 
-<p align="center">
-  <img src="06-Excavation-Training/images/07-Braced-Excavation-Overview.png" width="700" alt="Building excavation site with temporary steel cross-bracing and retaining walls">
-</p>
+**Responsibilities and Practical Experience:**
 
-<p align="center">
-  <em>Site photograph documenting the excavation and temporary steel cross-bracing system.</em>
-</p>
-
-**Main Responsibilities and Practical Experience:**
-
-- Monitoring daily excavation operations
-- Checking excavation progress and depth
-- Following temporary steel cross-bracing construction
+- Monitoring excavation progress and depth
+- Observing excavation sequencing and construction machinery operations
+- Following the implementation of temporary steel cross-bracing systems
 - Monitoring steel mesh installation and shotcrete application
-- Observing construction machinery operations
-- Monitoring site conditions and potential safety hazards
+- Observing site safety conditions and potential construction hazards
 - Preparing and submitting daily construction progress reports
 
-The internship provided practical exposure to geotechnical engineering, temporary excavation support systems, construction procedures, and professional site reporting.
+<p align="center">
+  <img src="06-Excavation-Training/images/07-Braced-Excavation-Overview.png" width="85%" alt="Building excavation and temporary cross-bracing system">
+</p>
+
+*Site photograph showing the excavation and temporary steel cross-bracing system.*
 
 [View Full Internship Documentation →](06-Excavation-Training/)
 
 ---
 
-## Repository Documentation
+## Project Documentation
 
-Depending on the project, the repository includes:
+Depending on the scope of each project, the corresponding project directory contains:
 
-- Project briefs and engineering objectives
-- English technical summaries and reports
+- Project descriptions and original academic requirements
+- English technical reports or report summaries
 - Original academic reports
 - Engineering calculations and design outputs
-- Original engineering software model files
-- Structural models and technical drawings
+- Original engineering software models and associated files
+- Technical drawings and visual documentation
 - Simulation results and performance evaluations
-- Selected project images and construction site photographs
+- Descriptions of individual and team contributions
 
-Each project directory contains a dedicated README describing its scope, technical methodology, available documentation, and individual contributions where applicable.
+Each project includes a dedicated README providing an overview of its engineering methodology, project scope, selected results, and available documentation.
+
+---
 
 ## Academic and Professional Scope
 
-The engineering projects presented in this repository were developed as part of my undergraduate civil engineering studies at Amirkabir University of Technology (AUT).
+The engineering design projects presented in this portfolio were completed as part of my Civil Engineering studies at Amirkabir University of Technology (AUT).
 
-The excavation internship represents practical professional training and construction site experience.
+Individual and collaborative contributions are identified within the corresponding project documentation.
 
-Academic projects are presented for educational and portfolio purposes and are not represented as independently certified engineering designs.
+The professional internship represents practical construction site experience and is distinguished from academic engineering design projects.
 
-Professional site photographs and internship documentation are shared subject to applicable company permissions and confidentiality requirements.
+Academic designs and simulation results are presented for educational and portfolio demonstration purposes and are not intended as construction-ready engineering documents.
+
+Site photographs are subject to company permission and confidentiality requirements.
 
 ---
 
@@ -274,9 +277,7 @@ Professional site photographs and internship documentation are shared subject to
 Civil Engineering Graduate  
 Amirkabir University of Technology (AUT) – Tehran Polytechnic
 
-- **Email:** [homayon.sarwary77@gmail.com](mailto:homayon.sarwary77@gmail.com)
-- **GitHub:** [Sarwary7](https://github.com/Sarwary7)
+**📧 Email:** [homayon.sarwary77@gmail.com](mailto:homayon.sarwary77@gmail.com)  
+**💻 GitHub:** [Sarwary7](https://github.com/Sarwary7)
 
 ---
-
-*Civil Engineering Portfolio | Academic Projects and Professional Internship Experience*
