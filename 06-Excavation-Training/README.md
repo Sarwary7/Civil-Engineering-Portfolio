@@ -31,7 +31,7 @@ The internship provided practical exposure to excavation operations, temporary e
 
 ## Practical Site Experience
 
-The internship involved direct observation and monitoring of construction activities at the PorMousa Project.
+The internship involved direct observation and monitoring of construction activities at the Pourmousa Project.
 
 The main construction activities included:
 
