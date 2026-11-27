@@ -1,10 +1,10 @@
 # Civil Engineering Internship: Building Excavation and Retaining Systems
 
 **Type:** Professional Internship – Site Supervision  
-**Position:** Supervisor Engineer (Intern)  
+**Position:** Site Supervision Intern  
 **Duration:** June 2025 – September 2025 (3 Months)  
 **Organization:** [ZaminRun Ravesh](https://zamin-run.com/en/about-us/)  
-**Project Site:** PorMousa Project  
+**Project Site:** Pourmousa Project  
 **Report Date:** September 2025
 
 ## Project Overview
